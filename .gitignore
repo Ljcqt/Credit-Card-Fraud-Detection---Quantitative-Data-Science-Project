@@ -1,0 +1,11 @@
+*.csv
+*.parquet
+*.xlsx
+*.zip
+data/
+.ipynb_checkpoints/
+venv/
+env/
+.venv/
+.env
+
